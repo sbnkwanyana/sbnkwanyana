@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sbnkwanyana
-- 👀 I’m interested in C# .Net Azure
-- 🌱 I’m currently learning Solution Architecturing
-- 💞️ I’m looking to collaborate on edTech
+- 👀 I’m interested in .Net Development and Microsoft Azure
+- 🌱 I’m currently learning cloud computing with Microsoft Azure and Solution Architecturing
 
 <!---
 sbnkwanyana/sbnkwanyana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
