@@ -1,0 +1,12 @@
+{
+  "name": "sbnkwanyana github README",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.vscode-markdownlint"
+      ]
+    }
+  },
+  "postCreateCommand": "echo 'Dev container ready for Markdown editing.'"
+}
